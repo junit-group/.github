@@ -17,14 +17,6 @@ We focus on:
 
 ---
 
-## 🧩 направления
-
-- **Junit Academy** — обучение разработке  
-- **Junit Lab** — реальные проекты  
-- **Junit Studio** — разработка под клиентов  
-
----
-
 ## ⚙️ Tech Stack
 
 - Next.js
